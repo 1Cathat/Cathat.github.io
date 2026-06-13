@@ -1,0 +1,28 @@
+body {
+   background: #FDF6E3;
+}
+.q {
+   background: #F4E8D1;
+   color: #5C4B3A;
+   transition: all 0.3s;
+   border-radius: 5px;
+   width: 50vw;
+   height: 10vw;
+   margin-left: 25vw;
+   margin-top: 50vw;
+}
+.q:hover, .q:active {
+   transform: scale(1.09);
+   background: #D8C4A0;
+   border-radius: 5px;
+}
+.w {
+   width: 60vw;
+   height: 13vw;
+   background: #F4E8D1;
+   margin-top: 5vw;
+   margin-left: 20vw;
+   color: #5C4B3A;
+   text-align: center;
+   border-radius: 5px;
+}
